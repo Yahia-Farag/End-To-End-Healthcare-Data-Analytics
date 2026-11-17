@@ -2,16 +2,20 @@
 
 A professional, end-to-end data cleaning, auditing, and business intelligence project using **T-SQL (SQL Server)** and **Power BI** to transform a messy healthcare dataset into a reliable, analytics-ready format.
 
+## 🔗 Live Interactive Dashboard
+
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiM2RkMjlmMmUtMjg4OS00YmY5LWFlYmUtYzJjZDJlOTA2NDY5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ---
 
 ## 📂 Repository Structure & Project Files
 
 This repository contains all necessary resources to run, review, and interact with the project:
 
-* 📊 **Interactive Power BI Report:** [`HealthCare.pbix`](./HealthCare.pbix) *(Download & open in Power BI Desktop for full interactivity)*
-* 📜 **SQL Cleaning Script:** [`Health Care.sql`](./Health%20Care.sql) *(T-SQL script for data auditing, missing value replacements, and type conversions)*
-* 📂 **Dataset:** [`Healthcare_Messy_Data.csv`](./Healthcare_Messy_Data.csv) *(Raw, uncleaned healthcare dataset)*
-* 🖼️ **Executive Dashboard:** High-resolution preview screenshot included below.
+- 📊 **Interactive Power BI Report:** [`HealthCare.pbix`](./HealthCare.pbix) *(Download & open in Power BI Desktop for full interactivity)*
+- 📜 **SQL Cleaning Script:** [`Health Care.sql`](./Health%20Care.sql) *(T-SQL script for data auditing, missing value replacements, and type conversions)*
+- 📂 **Dataset:** [`Healthcare_Messy_Data.csv`](./Healthcare_Messy_Data.csv) *(Raw, uncleaned healthcare dataset)*
+- 🖼️ **Executive Dashboard:** High-resolution preview screenshot included below.
 
 ---
 
